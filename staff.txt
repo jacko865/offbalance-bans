@@ -1,0 +1,2 @@
+# Off Balance staff: user|role|active|salt|check|iv|locked ban key|discord user id. Passwords are never stored here.
+cgxyummerz|admin|1|Ynqw7sbjTVQ5Xuqalpr8cA==|GF7qCBMSALvML+W1xhZmhFzCexsDZq6LqVC+XdNMMFk=|X3f/7eadTldOYnG5jvJiRg==|TUfDIBkCHToH52XyCrzi4+EzT5on0dnDnR2Gm0CdxD1N+VJCWBSfzYvbEp1C5/PKFzsAq3Klay4w4s09tTbLq06VB0MUPaNL/3JXWcUTwF/5/zr6z7d21OpgwnAH3evo|1474188827777302602
