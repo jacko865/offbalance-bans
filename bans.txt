@@ -1,0 +1,1 @@
+# Off Balance bans: ID|name|until (unix, 0 = permanent)|reason|when
